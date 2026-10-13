@@ -28,12 +28,6 @@ Repository Structure
 
 docs/ — requirements, specifications, project schedule, and reports.
 
-simulation/ — simulation models and related files.
-
-src/ — project source code.
-
-tests/ — test procedures and test results.
-
 Project Schedule
 
 The initial Gantt chart is available in docs/. It will be updated as the project develops and milestones are confirmed.
