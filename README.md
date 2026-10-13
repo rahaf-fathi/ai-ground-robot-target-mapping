@@ -32,9 +32,6 @@ Project Schedule
 
 The initial Gantt chart is available in docs/. It will be updated as the project develops and milestones are confirmed.
 
-Safety and Scope
-
-All experiments will use safe simulated or inert surface-visible targets in a controlled environment. The project excludes real explosives, buried-mine detection, mine clearance, and operation in hazardous areas.
 
 Project Stages
 
